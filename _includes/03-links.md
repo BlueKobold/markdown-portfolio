@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[BlueKobold's MarkDown Portfolio Wiki Home](https://github.com/BlueKobold/markdown-portfolio/wiki)
