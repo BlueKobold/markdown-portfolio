@@ -14,4 +14,5 @@ Ah, sure, my _smartness_ even tops my _wealth_ and of course my _altruism_ helps
   - `JavaScript` (somehow you have to)
   - `PHP` (helps a lot)
   - `Python` (of course, I wear a beard)
+  - `Shell Scripting` (not to forget)
   
